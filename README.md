@@ -3,7 +3,7 @@
 This is a basic node app you can run from your terminal
 
 It will open a tab in your browser and play a video to remind you to stand and walk around periodically. 
-You can set which video and the period of time
+You can set which video and the period of time between brakes
 
 Clone this repo to a folder in your computer and cd into that folder
 
